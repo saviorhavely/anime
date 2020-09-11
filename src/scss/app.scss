@@ -1,0 +1,15 @@
+// Import Variables
+@import 'variables';
+
+// Import Bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+// Import Animate
+@import 'animate';
+
+//Import Fonts
+@import 'fonts';
+
+@import 'animations.scss';
+
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,600,700,800,900&display=swap');
